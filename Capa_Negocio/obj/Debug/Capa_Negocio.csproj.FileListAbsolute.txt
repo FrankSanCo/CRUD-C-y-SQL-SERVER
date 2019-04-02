@@ -1,0 +1,11 @@
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Datos.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

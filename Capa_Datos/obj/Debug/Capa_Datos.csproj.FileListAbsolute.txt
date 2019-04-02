@@ -1,0 +1,9 @@
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\bin\Debug\Capa_Datos.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\bin\Debug\Capa_Datos.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\bin\Debug\Capa_Entidad.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\obj\Debug\Capa_Datos.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Datos\obj\Debug\Capa_Datos.pdb

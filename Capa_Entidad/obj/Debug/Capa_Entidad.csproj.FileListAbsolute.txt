@@ -1,0 +1,6 @@
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\obj\Debug\Capa_Entidad.csprojResolveAssemblyReference.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+c:\users\frank\source\repos\LoginCrud\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
